@@ -29,6 +29,5 @@ def PassBuffer(password):
 
     return finalpass
 
-print(PassBuffer("luca"))
 
 
